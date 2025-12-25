@@ -283,7 +283,7 @@ span {
     border-radius: 4px;
     padding: 10px;
     cursor: pointer;
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
 .deal-card img{
@@ -649,4 +649,5 @@ input:focus {
     .hero-message {
         font-size: 0.75rem;
     }
+
 }
